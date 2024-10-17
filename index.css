@@ -1,0 +1,16 @@
+
+#index {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #191825;
+}
+
+label,
+.default {
+  color: #865Dff;
+  font-size: x-large;
+  font-family: monospace;
+  font: bold;
+}
